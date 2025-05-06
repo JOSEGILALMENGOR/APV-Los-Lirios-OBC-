@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Asociación Proyecto Verde Los Lirios</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      background-color: #eaf4ec;
+      color: #2e4e2e;
+    }
+    header {
+      background-color: #1b5e20;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #388e3c;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    section {
+      padding: 30px;
+      text-align: center;
+    }
+    footer {
+      background-color: #1b5e20;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    footer a {
+      color: #a5d6a7;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Asociación Proyecto Verde Los Lirios, OBC</h1>
+  <p>Conservando la naturaleza, promoviendo el ecoturismo y la inclusión</p>
+</header>
+
+<nav>
+  <a href="#quienes-somos">¿Quiénes Somos?</a>
+  <a href="#proyectos">Proyectos</a>
+  <a href="#visitanos">Visítanos</a>
+  <a href="#apoya">Únete o Apoya</a>
+</nav>
+
+<section id="quienes-somos">
+  <h2>¿Quiénes Somos?</h2>
+  <p>Somos una organización comunitaria dedicada a proteger el ecosistema del manglar, fomentar la educación ambiental y crear espacios inclusivos para todos.</p>
+</section>
+
+<section id="proyectos">
+  <h2>Proyectos Destacados</h2>
+  <ul>
+    <li>Sendero ecológico interpretativo</li>
+    <li>Muelle turístico y club náutico</li>
+    <li>Ecoparque inclusivo y espacio infantil</li>
+  </ul>
+</section>
+
+<section id="visitanos">
+  <h2>Visítanos</h2>
+  <p>Estamos en Pedregal, distrito de David, frente al mercado del marisco.</p>
+  <p>¡Ven y conéctate con la naturaleza!</p>
+</section>
+
+<section id="apoya">
+  <h2>Únete o Apoya</h2>
+  <p>Contáctanos para ser voluntario, donar o colaborar con nuestros programas.</p>
+</section>
+
+<footer>
+  <p>Síguenos en:</p>
+  <a href="https://www.facebook.com/loslirios" target="_blank">Facebook</a> |
+  <a href="https://www.instagram.com/loslirios" target="_blank">Instagram</a>
+  <p>&copy; 2025 Asociación Proyecto Verde Los Lirios, OBC</p>
+</footer>
+
+</body>
+</html>
